@@ -16,5 +16,9 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 https://code.visualstudio.com/api/references/
 
+brew install node
+npm install -g yo generator-code
+yo code
+
 vsce package
 code --install-extension ./helldiver-0.0.1.vsix
