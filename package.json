@@ -1,0 +1,22 @@
+{
+  "name": "helldiver",
+  "displayName": "Helldiver",
+  "description": "Colored in the patriotic colors of Freedom",
+  "version": "0.0.5",
+  "publisher": "OmegaGiven",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Helldiver",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Helldiver-color-theme.json"
+      }
+    ]
+  }
+}
