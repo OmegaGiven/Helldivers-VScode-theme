@@ -22,3 +22,6 @@ yo code
 
 vsce package
 code --install-extension ./helldiver-0.0.1.vsix
+
+command like to make iterm look better:
+autoload -U colors && colors\nexport PS1="%{$fg_bold[yellow]%}%n@%m %{$fg_bold[green]%}%~ %{$reset_color%}$ "\n
