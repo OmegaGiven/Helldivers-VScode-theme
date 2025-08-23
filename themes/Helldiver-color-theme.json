@@ -25,7 +25,9 @@
 		"statusBar.background": "#060606",
 		"statusBar.foreground": "#FFFF00",
 		"statusBar.debuggingBackground": "#FF0000",
-		"statusBar.debuggingForeground": "#ff0000"
+		"statusBar.debuggingForeground": "#ff0000",
+
+		"symbolIcon.stringForeground" : "#dfb6ff"
 	},
 	"workbench.colorCustomizations":{
 		"terminal.background": "#000000",
@@ -36,6 +38,21 @@
 		"terminal.ansiRed": "#CD3131",
 	},
 	"tokenColors": [
+		{
+			"name": "Python String",
+			"scope": "string.quoted.double.python",
+			"settings": {
+				"foreground": "#9fffa9"
+			}
+		},
+			{
+			"name": "Python Docstring",
+			"scope": ["string.quoted.docstring.multi.python","string.quoted.multi.python"],
+			"settings": {
+				"foreground": "#00c231",
+				"fontStyle": "italic"
+			}
+		},
 		{
 			"name": "Comment",
 			"scope": [
@@ -104,7 +121,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#002fff"
+				"foreground": "#3b5df6"
 			}
 		},
 		{
@@ -128,7 +145,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#1eff00"
+				"foreground": "#30f8ff"
 			}
 		},
 		{
@@ -178,7 +195,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#87e200"
 			}
 		},
 		{
@@ -305,7 +322,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#d38bff"
 			}
 		},
 		{

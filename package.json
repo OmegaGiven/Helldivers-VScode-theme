@@ -2,7 +2,7 @@
   "name": "helldiver",
   "displayName": "Helldiver",
   "description": "Colored in the patriotic colors of Freedom",
-  "version": "0.0.5",
+  "version": "0.0.12",
   "publisher": "OmegaGiven",
   "engines": {
     "vscode": "^1.80.0"
