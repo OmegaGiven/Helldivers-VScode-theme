@@ -3,15 +3,14 @@
 	"colors": {
 		"editor.background": "#000000",
 		"editor.foreground": "#FFFF00",
-		"editorIndentGuide.background": "#404040",
 		"editorRuler.foreground": "#333333",
 
-		"activityBar.background": "#0f0f0f",
+		"activityBar.background": "#0d0d0d",
 		"activityBar.foreground": "#ffff03",
-		"activityBarBadge.background": "#FFFF00",
+		"activityBarBadge.background": "#28a9ff",
 		"activityBarBadge.foreground": "#000000",
 
-		"sideBar.background": "#060606",
+		"sideBar.background": "#0f0f0f",
 		"sideBar.foreground": "#ffff00",
 		"sideBarTitle.foreground": "#FFFF00",
 		"sideBarSectionHeader.background": "#000000",
@@ -27,7 +26,31 @@
 		"statusBar.debuggingBackground": "#FF0000",
 		"statusBar.debuggingForeground": "#ff0000",
 
-		"symbolIcon.stringForeground" : "#dfb6ff"
+		"symbolIcon.stringForeground" : "#dfb6ff",
+		"textPreformat.foreground" : "#ffda09",
+
+		"editorGroup.emptyBackground" : "#0071bd",
+		"tab.activeForeground": "#FFFFFF",
+		
+		"tab.inactiveBackground": "#002b64",
+  		"tab.inactiveForeground": "#ffffff",
+		"tab.unfocusedHoverBackground": "#002b64",
+		"tab.hoverBackground": "#28a9ff",
+		"tab.unfocusedInactiveBackground": "#002b64",
+
+		"settings.dropdownBackground":"#000000",
+		"settings.dropdownBorder":"#000000",
+		"settings.checkboxBackground":"#000000",
+		"settings.checkboxBorder":"#000000",
+		"settings.textInputBackground":"#000000",
+		"settings.numberInputBackground":"#000000",
+		"menu.background" : "#070707",
+		"quickInput.background": "#070707",		
+
+		"chat.editedFileForeground": "#ffbb3c",
+		"gitDecoration.modifiedResourceForeground": "#ffbb3c",
+
+		"gitDecoration.stageModifiedResourceForeground": "#ff7b00"
 	},
 	"workbench.colorCustomizations":{
 		"terminal.background": "#000000",
