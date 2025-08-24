@@ -2,13 +2,26 @@
   "name": "helldiver",
   "displayName": "Helldiver",
   "description": "Colored in the patriotic colors of Freedom",
-  "version": "0.0.22",
+  "version": "0.1.3",
+  "icon": "helldiver.png",
+  "repository": "https://github.com/OmegaGiven/Helldivers-VScode-theme",
   "publisher": "OmegaGiven",
   "engines": {
     "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Helldivers",
+    "helldivers2",
+    "helldivers 2",
+    "Democracy",
+    "Freedom",
+    "Liberty",
+    "Justice",
+    "Dark Themes",
+    "Dark contrast"
   ],
   "contributes": {
     "themes": [

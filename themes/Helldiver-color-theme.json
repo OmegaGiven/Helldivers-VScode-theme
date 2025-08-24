@@ -49,6 +49,17 @@
 
 		"chat.editedFileForeground": "#ffbb3c",
 		"gitDecoration.modifiedResourceForeground": "#ffbb3c",
+		"badge.background" : "#2220ff",
+
+		"errorForeground" : "#ff401a",
+
+		"input.foreground": "#ffffff",
+		"input.background" : "#2d0000",
+		"inputOption.activeBackground": "#2d0000",
+		"editorWidget.background":"#7f081f",
+		"editorGroupHeader.tabsBackground" : "#000000",
+
+
 
 		"gitDecoration.stageModifiedResourceForeground": "#ff7b00"
 	},
