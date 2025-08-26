@@ -13,8 +13,11 @@ brew install node
 npm install -g yo generator-code
 yo code
 
-vsce package
-code --install-extension ./helldiver-0.X.X.vsix
+Linux/Windows:
+    vsce package
+    code --install-extension ./helldiver-0.X.X.vsix
+Mac:
+    
 
 command like to make iterm look better:
 autoload -U colors && colors\nexport PS1="%{$fg_bold[yellow]%}%n@%m %{$fg_bold[green]%}%~ %{$reset_color%}$ "\n

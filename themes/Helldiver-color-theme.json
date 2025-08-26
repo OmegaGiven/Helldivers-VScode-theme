@@ -2,7 +2,7 @@
 	"name": "Helldiver",
 	"colors": {
 		"editor.background": "#000000",
-		"editor.foreground": "#FFFF00",
+		"editor.foreground": "#ffffff",
 		"editorRuler.foreground": "#333333",
 
 		"activityBar.background": "#0d0d0d",
@@ -11,7 +11,7 @@
 		"activityBarBadge.foreground": "#000000",
 
 		"sideBar.background": "#0f0f0f",
-		"sideBar.foreground": "#ffff00",
+		"sideBar.foreground": "#ffffff",
 		"sideBarTitle.foreground": "#FFFF00",
 		"sideBarSectionHeader.background": "#000000",
 		"sideBarSectionHeader.foreground": "#FFFF00",
