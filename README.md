@@ -15,6 +15,6 @@ To build your own Theme see this documentation:
 4. yo code
 
 go to the repo and use the following commands to repackage this if you want to change some of the colors around:
-    1. run this in vscode bar at top: Shell Command: Install 'code' command in PATH
-    2. vsce package
-    3. code --install-extension ./helldiver-0.X.X.vsix
+1. run this in vscode bar at top: Shell Command: Install 'code' command in PATH
+2. vsce package
+3. code --install-extension ./helldiver-0.X.X.vsix
